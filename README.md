@@ -29,7 +29,7 @@ For temperature 65F
 
 For temperature 45F
 
-`What is the temperature outside: 65`
+`What is the temperature outside: 45`
 
 `Wear a heavy jacket`
 
