@@ -1,4 +1,4 @@
-## CIS 3330 - CODE 1 - Variables, statements, operators, and expressions
+## CIS 3330 - Weather Assistant
 
 In this coding assignment, you are asked to create a little program for a basic weather assistant. The weather assistant must include the following features:
 
